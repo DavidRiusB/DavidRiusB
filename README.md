@@ -38,6 +38,8 @@ Frontend repository for the Chily project.
 
 Thanks for visiting my GitHub profile! 🚀
 
+---
+
 # ¡Hola! Soy David 👋
 
 ¡Bienvenidos a mi perfil de GitHub!
